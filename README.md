@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+It's a whole new ball game.
